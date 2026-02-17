@@ -24,9 +24,26 @@
     { "id": "prod-d2a87c56-018", "name": "Elite Item 18", "category": "home", "price": 140.92, "stock": 14, "rating": 1.2 }
   ],
   "aggregations": {
-    "sports": {
-      "count": 3,
-      "inventoryValue": 16020.65
-    }
+  "books": {
+    "count": 2,
+    "inventoryValue": 22604.78
+  },
+  "sports": {
+    "count": 3,
+    "inventoryValue": 16020.65
+  },
+  "clothing": {
+    "count": 5,
+    "inventoryValue": 134270.68
+  },
+  "electronics": {
+    "count": 5,
+    "inventoryValue": 87500.46
+  },
+  "home": {
+    "count": 3,
+    "inventoryValue": 118345.12
   }
+}
+
 }
